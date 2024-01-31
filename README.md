@@ -53,4 +53,4 @@ Streamlit will provide a local URL in the terminal (usually http://localhost:850
 
 ## Sample
 
-Link to [HuggingFace Space Streamlit App](https://huggingface.co/spaces/sgabriel92/EEP596_LLM_SearchBasedRetrievalDemo)
+Link to [HuggingFace Space Streamlit App](https://huggingface.co/spaces/sgabriel92/EEP596_LLM_Category_Search)
