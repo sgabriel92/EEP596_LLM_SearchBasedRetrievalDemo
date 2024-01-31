@@ -1,5 +1,7 @@
 # READ ME
 
+![Demo GIF](SearchLLMDemo.gif)
+
 ## Abstract
 This application is a search-based retrieval demo that uses GloVe (Global Vectors for Word Representation) and Sentence Transformers to find the closest words to a given input.
 
